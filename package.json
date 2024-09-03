@@ -1,0 +1,26 @@
+{
+  "name": "ak-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhil-ounce/ak-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "akhil",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/akhil-ounce/ak-currency-converter/issues"
+  },
+  "homepage": "https://github.com/akhil-ounce/ak-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
